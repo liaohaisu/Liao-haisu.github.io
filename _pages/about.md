@@ -16,7 +16,7 @@ passive prosthetic foot. In the lab, I am known for my kindness and ease in buil
 
 My research interests include energy harvesting, human gaits, lower limb prostheses, and optimization algorithms.
 
-I am very fortunate to be instructed by [Prof. Gao Fei](https://people.ucas.edu.cn/~GAOFEI2/) from [ SIAT, Chinese Academy of Sciences](https://www.siat.ac.cn//). 
+I am very fortunate to be instructed by [Prof. Gao Fei](https://people.ucas.edu.cn/~GAOFEI2?language=en) from [ SIAT, Chinese Academy of Sciences](https://www.siat.ac.cn//). 
 
 You can find my CV here: [Haisu Liao's Curriculum Vitae](../assets/webfonts/PHD.pdf).
 
