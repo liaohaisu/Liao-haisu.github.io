@@ -18,6 +18,6 @@ My research interests include energy harvesting, human gaits, lower limb prosthe
 
 I am very fortunate to be instructed by [Prof. Gao Fei](https://people.ucas.edu.cn/~GAOFEI2/) from [ SIAT, Chinese Academy of Sciences](https://www.siat.ac.cn//). 
 
-You can find my CV here: [Haisu Liao's Curriculum Vitae](../assets/PHD.pdf).
+You can find my CV here: [Haisu Liao's Curriculum Vitae](../assets/webfonts/PHD.pdf).
 
 [Email](hs.liao@siat.ac.cn) / [Github](https://liaohaisu.github.io/Liao-haisu.github.io/) 
