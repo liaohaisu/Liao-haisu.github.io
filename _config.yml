@@ -24,7 +24,7 @@ author:
   avatar           : "Liaohaisu.jpg"
   name             : "Liao Haisu"
   pronouns         : # example: "he/him"  
-  bio              : "A passionate researcher with expertise in energy harvesting technologies, currently pursuing a master’s in Electronic Science and Technology. My work focuses on advancing smart prosthetic devices, particularly energy harvesting applications, to improve functionality.
+ # bio              : "A passionate researcher with expertise in energy harvesting technologies, currently pursuing a master’s in Electronic Science and Technology. My work focuses on advancing smart prosthetic devices, particularly energy harvesting applications, to improve functionality.
  In the lab, I am known for my kindness and ease in building connections, always ready to help mates. Outside the lab, I am an avid skateboarder."
   location         : "China, Shenzhen"
   employer         : "Southe University of Science and Technology"
@@ -41,12 +41,12 @@ author:
   #researchgate     : # URL
 
   # Repositories and software development
-  bitbucket        : # Username - Update with your username on the site
-  codepen          : # Username
-  dribbble         : # Username
-  github           : "academicpages"
-  kaggle           : # Username  
-  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
+  #bitbucket        : # Username - Update with your username on the site
+  #codepen          : # Username
+  #dribbble         : # Username
+  #github           : "academicpages"
+  #kaggle           : # Username  
+  #stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   #bluesky          : "bsky.app" # Replace this with you Bluesky username
